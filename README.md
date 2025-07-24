@@ -149,7 +149,7 @@ FROM
 ## 📬 Contact
 
 For questions or collaboration opportunities:
-**\[Your Name]** – \[[your.email@example.com](mailto:your.email@example.com)]
+**\[Your Name]** – \[[mussarrat.khatoon@gmail.com](mailto:your.email@example.com)]
 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🔗 [Portfolio](https://yourportfolio.site)
 
 ```
